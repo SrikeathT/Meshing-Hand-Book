@@ -4,7 +4,7 @@ An interactive, single-page reference document for **Meshing in ANSYS Workbench*
 
 **FEA • CFD • Mesh Quality • Convergence • Optimization**
 
-**Live Website →** https://srikeatht.github.io/Meshing-Handbook/
+**Live Website →** https://srikeatht.github.io/Meshing-Hand-Book/
 
 ---
 
